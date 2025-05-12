@@ -21,7 +21,8 @@ Welcome! This repository contains my learning journey and hands-on projects in P
 - ✅ `PYTHON LAB TUTORIAL WITH DSA` – Covers Python basics, control flow, loops, and DSA
 - ✅ `HACKER RANK PY CERTIFICATE` – PDF evidence of Python skill badge
 - ✅ `FREE CODE CAMP PYTHON CERTIFICATE` – JPG proof of completion
- 💡 Future Plans
+ 
+💡 Future Plans
 
 - Host IPL model with Streamlit
 - Add Jupyter notebooks for each topic
